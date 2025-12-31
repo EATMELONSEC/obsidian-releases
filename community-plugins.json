@@ -18934,4 +18934,11 @@
     "description": "Add timestamps to entries under dated headers for lab notebook style logging.",
     "repo": "eddie/obsidian-time-log"
   }
+  ,{
+  "id": "opsto-mp",
+  "name": "OpsToMP",
+  "author": "Qysec",
+  "description": "将Obsidian笔记转换并发布到微信公众号草稿箱",
+  "repo": "EATMELONSEC/OpsToMP"
+}
 ]
